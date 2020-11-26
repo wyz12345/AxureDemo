@@ -59,6 +59,8 @@
   font-size:14px;
   text-align:left;
 }
+.horizontal_line {
+}
 ._文本段落 {
   text-align:left;
 }
@@ -87,6 +89,9 @@
 }
 .box_1 {
 }
+.paragraph {
+  text-align:left;
+}
 .line {
 }
 .ellipse {
@@ -102,5 +107,40 @@
   text-align:left;
 }
 .icon {
+}
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.shape {
+}
+.image {
+  color:#000000;
+}
+.flow_shape1 {
+}
+.iconfont {
+  font-family:'iconfont Normal', 'iconfont';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
+.image1 {
+}
+.refs-icon-brands {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
 }
 textarea, select, input, button { outline: none; }
